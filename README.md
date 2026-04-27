@@ -2,7 +2,7 @@
 
 **Estudiante de Ingeniería de Software | Desarrollador Full Stack (Java/React) | Arquitecto de Soluciones de IA**
 
-![Banner]<img width="1280" height="317" alt="Baner Linke" src="https://github.com/user-attachments/assets/d4eed9cd-d526-45bd-b14d-29bb30ebad76" />
+<img width="1280" height="317" alt="Baner Linke" src="https://github.com/user-attachments/assets/d4eed9cd-d526-45bd-b14d-29bb30ebad76" />
 
 ### 👨‍💻 Sobre mí
 * 🎓 Estudiante de 3er semestre de Ingeniería de Software en la ESPE.
@@ -21,7 +21,7 @@
 </p>
 
 ### 🚀 Proyectos Destacados
-* 🏢 **Micro-SaaS Inmobiliario:** CRM con IA (Gemini), Webhooks de Meta y match inmediato basado en vectorización. **[Ver Despliegue Backend](https://api-inmobiliaria-p1su.onrender.com)**
+* 🏢 **Micro-SaaS Inmobiliario:** CRM con IA (Gemini), Webhooks de Meta y match inmediato basado en vectorización.
 * 🧠 **Ecosistema de Agentes de IA:** Herramientas de automatización de investigación académica y financiera integradas con Obsidian.
 
 ---
