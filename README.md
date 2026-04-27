@@ -2,7 +2,7 @@
 
 **Estudiante de Ingeniería de Software | Desarrollador Full Stack (Java/React) | Arquitecto de Soluciones de IA**
 
-![Banner](https://via.placeholder.com/1584x396/1a202c/ffffff?text=Sebasti%C3%A1n+Moreno+-+Software+Engineer)
+![Banner]<img width="1280" height="317" alt="Baner Linke" src="https://github.com/user-attachments/assets/d4eed9cd-d526-45bd-b14d-29bb30ebad76" />
 
 ### 👨‍💻 Sobre mí
 * 🎓 Estudiante de 3er semestre de Ingeniería de Software en la ESPE.
